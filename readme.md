@@ -19,7 +19,7 @@ This application is written with Python 3.11.
 ### Main Features
 This game application features a constantly moving snake that follows a path and is guided to randomly placed food on the screen.
 
-The current score and the high scoore is tracked at the top of the screen.  
+The current score and the high score is tracked at the top of the screen.  
 
 ## Usage & Requirements
 
